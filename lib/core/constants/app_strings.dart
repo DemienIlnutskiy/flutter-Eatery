@@ -8,6 +8,7 @@ class AppStrings {
 
   static const String menuTitle = 'Меню';
   static const String priceSymbol = '₴';
+  static const String numberSymbol = 'Шт.';
   static const String checkEmpty = '0';
   static const String stringEmpty = '--';
 

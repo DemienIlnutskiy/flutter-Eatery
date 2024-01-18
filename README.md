@@ -4,7 +4,7 @@
 
 #### The first screen is a list of dishes
 
-![image](https://github.com/DemienIlnutskiy/flutter-Eatery/assets/130820656/cf013e32-d676-4907-9370-f11c60f53235)
+![eatery_menu_screen](https://github.com/DemienIlnutskiy/flutter-Eatery/assets/130820656/d35c6eb7-d8ab-41cc-85c3-8ab1c5a0706b)
 -
 #### The second screen is an information about dishe
 

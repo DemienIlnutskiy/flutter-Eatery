@@ -2,11 +2,11 @@
 
 ## This project has two screens.
 
-### The first screen is a list of dishes
+#### The first screen is a list of dishes
 
 ![image](https://github.com/DemienIlnutskiy/flutter-Eatery/assets/130820656/cf013e32-d676-4907-9370-f11c60f53235)
 
-### The second screen is an information about dishe
+#### The second screen is an information about dishe
 
 ![image](https://github.com/DemienIlnutskiy/flutter-Eatery/assets/130820656/da79cbdd-d666-4e80-9445-79617c113f43)
 

@@ -104,7 +104,7 @@ class DishesList extends StatelessWidget {
                             children: [
                               Text(
                                 dishe.number.toString() +
-                                    AppStrings.priceSymbol,
+                                    AppStrings.numberSymbol,
                                 textAlign: TextAlign.center,
                                 style: theme.displayMedium,
                               ),

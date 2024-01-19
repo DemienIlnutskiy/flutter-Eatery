@@ -30,4 +30,4 @@ Eatery menu bloc.
 
 ![integration_test](https://github.com/DemienIlnutskiy/flutter-Eatery/assets/130820656/5da2b3ce-aea7-46fd-996e-7c35dc3e65c3)
 
-https://github.com/DemienIlnutskiy/flutter-Eatery/assets/130820656/a3998cb1-a248-49c4-a28a-6e0f86652f9a
+https://github.com/DemienIlnutskiy/flutter-Eatery/assets/130820656/13c16142-08ab-4e7f-920b-cb8f70c8a1a0

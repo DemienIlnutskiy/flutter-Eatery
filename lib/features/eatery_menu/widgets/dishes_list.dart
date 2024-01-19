@@ -1,5 +1,4 @@
 import 'package:auto_route/auto_route.dart';
-import 'package:cached_network_image/cached_network_image.dart';
 import 'package:eatery/core/config/router/router.dart';
 import 'package:eatery/core/constants/constants.dart';
 import 'package:eatery/core/repositories/eatery_menu/models/models.dart';
@@ -27,8 +26,8 @@ class DishesList extends StatelessWidget {
         child: Stack(
           alignment: Alignment.bottomLeft,
           children: [
-            CachedNetworkImage(
-              imageUrl: dishe.image,
+            Image.network(
+              dishe.image,
               width: width,
               height: height,
               fit: BoxFit.cover,
